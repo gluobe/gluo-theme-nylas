@@ -1,22 +1,20 @@
 # Gluo Theme Nylas N1
 A customizable, dark sidebar theme for [Nylas N1](https://nylas.com/n1).
 
+[![Default Theme](./images/screenshot.png)](./images/screenshot.png)
+
 ## Installation
 
 ### Step 1: Download
 
-#### Option 1: via the command line  
-`git clone https://github.com/gluobe/gluo-theme-nylas.git ~/.nylas/packages/gluo-theme-nylas`
-
-**Note:** _Be sure to clone the repo as `gluo-theme-nylas` or else images referenced in the CSS won't be found._
+#### Option 1: via the command line
+`git clone https://github.com/gluobe/gluo-theme-nylas.git `
 
 ### Step 2: Install
 In `Nylas N1 > Edit` and choose `Install a theme…`.
 
 ### Step 3: Activate
-Select the `gluo-theme-nylas` folder and press `Open`. N1 will make a copy of the theme files into your `.nylas/packages` directory, notify you that the theme has been installed, and open it a new Finder window.
-
-If you need to get back to the package files, they're located at `/Users/<yourUsername>/.nylas/packages/gluo-theme-nylas`. Either use Terminal or you can open a Finder window and press <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> and paste the path in, replacing `<yourUsername>` with your username.
+In `Nylas N1 > Edit` and choose `Change theme…` and select the Gluo theme.
 
 ### Credits
 
