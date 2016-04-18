@@ -1,4 +1,4 @@
-# Gluo
+# Gluo Theme Nylas N1
 A customizable, dark sidebar theme for [Nylas N1](https://nylas.com/n1).
 
 ## Installation
